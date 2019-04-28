@@ -14,5 +14,6 @@ public class LoginActivity extends AppCompatActivity {
         System.out.println("COMPLETE 2");
         System.out.println("COMPLETE 3");
         System.out.println("1. Branch");
+        System.out.println("delete");
     }
 }
